@@ -8,7 +8,7 @@ SilverStripe Link Check is released under the [MIT license](http://heyday.mit-li
 
 ## Installation
 
-	$ composer require silverstripe-linkcheck
+	$ composer require heyday/silverstripe-linkcheck
 
 ## How to use
 
